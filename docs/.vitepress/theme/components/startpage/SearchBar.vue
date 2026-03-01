@@ -23,18 +23,6 @@ const platforms: PlatformType[] = [
     icon: 'i-simple-icons:searxng'
   },
   {
-    name: 'ChatGPT',
-    key: 's',
-    url: 'https://chat.openai.com/?q=',
-    icon: 'i-simple-icons:openai'
-  },
-  {
-    name: 'Claude',
-    key: 'd',
-    url: 'https://claude.ai/chat/',
-    icon: 'i-logos:claude-icon'
-  },
-  {
     name: 'Perplexity',
     key: 'f',
     url: 'https://www.perplexity.ai/search?q=',
