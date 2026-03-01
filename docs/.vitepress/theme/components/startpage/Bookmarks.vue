@@ -54,12 +54,6 @@ let chordTimeout: NodeJS.Timeout | null = null
 
 const initialBookmarksData: BookmarkType[] = [
   {
-    name: 'Hacker News',
-    chord: 'HN',
-    url: 'https://news.ycombinator.com/',
-    icon: 'i-logos:ycombinator'
-  },
-  {
     name: 'GitHub',
     chord: 'GH',
     url: 'https://github.com/',
@@ -70,12 +64,6 @@ const initialBookmarksData: BookmarkType[] = [
     chord: 'RD',
     url: 'https://reddit.com/',
     icon: 'i-logos:reddit-icon'
-  },
-  {
-    name: 'Twitter',
-    chord: 'TW',
-    url: 'https://twitter.com/',
-    icon: 'i-logos:twitter'
   },
   {
     name: 'YouTube',
@@ -100,12 +88,6 @@ const initialBookmarksData: BookmarkType[] = [
     chord: 'WT',
     url: 'https://wotaku.wiki/',
     icon: 'i-twemoji:flag-japan'
-  },
-  {
-    name: 'privateersclub',
-    chord: 'PC',
-    url: 'https://megathread.pages.dev/',
-    icon: 'i-custom:privateersclub'
   }
 ]
 
