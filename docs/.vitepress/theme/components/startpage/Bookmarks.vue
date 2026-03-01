@@ -82,12 +82,6 @@ const initialBookmarksData: BookmarkType[] = [
     chord: 'BG',
     url: '/beginners-guide',
     icon: 'i-lucide:book-open-text'
-  },
-  {
-    name: 'Wotaku',
-    chord: 'WT',
-    url: 'https://wotaku.wiki/',
-    icon: 'i-twemoji:flag-japan'
   }
 ]
 
