@@ -19,7 +19,7 @@ const platforms: PlatformType[] = [
   {
     name: 'SearXNG',
     key: 'a',
-    url: 'http://localhost:8080',
+    url: 'http://localhost:8080/search?q=',
     icon: 'i-simple-icons:searxng'
   },
   {
